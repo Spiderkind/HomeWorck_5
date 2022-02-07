@@ -1,0 +1,16 @@
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\bin\Debug\net5.0\HomeWork_1.exe
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\bin\Debug\net5.0\HomeWork_1.deps.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\bin\Debug\net5.0\HomeWork_1.runtimeconfig.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\bin\Debug\net5.0\HomeWork_1.runtimeconfig.dev.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\bin\Debug\net5.0\HomeWork_1.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\bin\Debug\net5.0\HomeWork_1.pdb
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.csproj.AssemblyReference.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.AssemblyInfoInputs.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.AssemblyInfo.cs
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.csproj.CoreCompileInputs.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\refint\HomeWork_1.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.pdb
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\HomeWork_1.genruntimeconfig.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Домашняя работа\ASP.NET Core Веб Приложение\PC\HomeWork_1\HomeWork_1\obj\Debug\net5.0\ref\HomeWork_1.dll
